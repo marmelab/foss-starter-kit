@@ -23,7 +23,7 @@ Please make sure to update tests as appropriate.
 
 ## Author
 
-[![alexisjanvier](http://gravatar.com/avatar/b2095b11fb57eb162cd5972dc866b572?s=72)](https://github.com/alexisjanvier) 
+[![alexisjanvier](http://gravatar.com/avatar/b2095b11fb57eb162cd5972dc866b572?s=72)](https://github.com/alexisjanvier)     
 [alexisjanvier](https://github.com/alexisjanvier) 
 
 ## Team
