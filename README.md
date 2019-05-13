@@ -26,6 +26,8 @@ Please make sure to update tests as appropriate.
 make test
 ```
 
+To learn more about the contributions to this project, consult the [contribution guide](CONTRIBUTING.md).
+
 ## Author
 
 [![alexisjanvier](http://gravatar.com/avatar/b2095b11fb57eb162cd5972dc866b572?s=72)](https://github.com/alexisjanvier)     
