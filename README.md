@@ -26,7 +26,7 @@ Please make sure to update tests as appropriate.
 make test
 ```
 
-To learn more about the contributions to this project, consult the [contribution guide](CONTRIBUTING.md).
+To learn more about the contributions to this project, consult the [contribution guide](/.github/CONTRIBUTING.md).
 
 ## Author
 
@@ -41,4 +41,4 @@ To learn more about the contributions to this project, consult the [contribution
 
 ## License
 
-foss-starter-kit is licensed under the [GNU GPLv3 Licence](COPYING), courtesy of [marmelab](http://marmelab.com).
+foss-starter-kit is licensed under the [GNU GPLv3 License](LICENSE), courtesy of [marmelab](http://marmelab.com).
