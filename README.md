@@ -63,6 +63,12 @@ To learn more about the contributions to this project, consult the [contribution
 [![zyhou](https://avatars2.githubusercontent.com/u/2212144?s=96&amp;v=4)](https://github.com/zyhou)     
 [Maxime Richard](https://github.com/zyhou) 
 
+[![mchaffotte](https://avatars2.githubusercontent.com/u/4921926?s=460&v=4)](https://github.com/mchaffotte)     
+[Matthieu Chaffotte](https://github.com/mchaffotte) 
+
+[![HALLERPierre](https://media.licdn.com/dms/image/C5603AQGJ25y2leHvgQ/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=ee-itvEFGMf3PgjZ735QqGavcgTCkJOoc5IKQwwLM3Q)](https://github.com/HALLERPierre)     
+[Pierreh](https://github.com/HALLERPierre) 
+
 ## Team
 
 [![JulienMattiussi](https://avatars2.githubusercontent.com/u/39904906?s=96&amp;v=4)](https://github.com/JulienMattiussi) | [![Kmaschta](https://avatars2.githubusercontent.com/u/1819833?s=96&amp;v=4)](https://github.com/Kmaschta) | [![Luwangel](https://avatars2.githubusercontent.com/u/5584839?s=96&amp;v=4)](https://github.com/Luwangel)
