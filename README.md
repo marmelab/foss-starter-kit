@@ -28,7 +28,7 @@ make test
 
 To learn more about the contributions to this project, consult the [contribution guide](/.github/CONTRIBUTING.md).
 
-## Author
+## Maintainer
 
 [![alexisjanvier](https://avatars1.githubusercontent.com/u/547706?s=96&amp;v=4)](https://github.com/alexisjanvier)     
 [Alexis Janvier](https://github.com/alexisjanvier) 
